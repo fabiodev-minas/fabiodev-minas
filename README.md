@@ -8,5 +8,5 @@ I am Fábio Lopes, a front-end programmer. Currently, I am learning and creating
 - <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="logo"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodev-minas&show_icons=true&theme=transparent)
-
+![](https://komarev.com/ghpvc/?username=fabiodev-minas)
 <a href="https://api.whatsapp.com/send?phone=5535999141191"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-whats"/></a>
