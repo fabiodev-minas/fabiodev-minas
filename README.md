@@ -10,7 +10,6 @@ I am Fábio Lopes, a front-end programmer. Currently, I am learning and creating
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodev-minas&show_icons=true&theme=transparent)
 
 
-
 ![](https://komarev.com/ghpvc/?username=fabiodev-minas)
 
 ### Connect with me:
